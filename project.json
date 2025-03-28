@@ -1,16 +1,13 @@
 {
-  "name": "Karlson-Logan-RPA_09",
-  "projectId": "b9d2c190-bf89-45a2-8ef3-8532b067769a",
+  "name": "Karlson-Logan-RPA_M08",
+  "projectId": "49e79350-9fc3-4621-b203-202cb13f2e3e",
   "description": "Blank Process",
   "main": "Main.xaml",
   "dependencies": {
-    "UiPath.Excel.Activities": "[2.24.4]",
-    "UiPath.GSuite.Activities": "[3.0.10]",
-    "UiPath.Mail.Activities": "[2.0.10]",
-    "UiPath.MicrosoftOffice365.Activities": "[3.0.10]",
-    "UiPath.System.Activities": "[24.10.7]",
-    "UiPath.UIAutomation.Activities": "[25.2.1-preview]",
-    "UiPath.Word.Activities": "[1.20.3]"
+    "UiPath.DocumentUnderstanding.Activities": "[2.12.1]",
+    "UiPath.PDF.Activities": "[3.20.2]",
+    "UiPath.System.Activities": "[25.2.2]",
+    "UiPath.UIAutomation.Activities": "[24.10.11]"
   },
   "webServices": [],
   "entitiesStores": [],
@@ -52,7 +49,7 @@
   "entryPoints": [
     {
       "filePath": "Main.xaml",
-      "uniqueId": "1a8d1597-d985-4f43-b707-445898a435bf",
+      "uniqueId": "832cc7b5-c0a9-4fcc-9f6e-c858cddfa4d5",
       "input": [],
       "output": []
     }
