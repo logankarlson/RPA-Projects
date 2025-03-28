@@ -1,16 +1,1 @@
-﻿Logan Karlson 03/08/2025
-Extracted Content:
-A. Email:
-I use both the University email system and the Canvas messaging system. I will respond to your email to
-the address it was sent from and from the system it was sent from (if you email me from within Canvas, I
-will respond to Canvas, if you email me from traditional email, I will respond with traditional email). For
-class announcements I will send a Canvas group email via Announcements. I will be checking my email
-frequently and you can expect a response within 48 hours (holidays excluded).
 
-
-This folder includes:
-➢ a Main.xaml file Is automatically created, which should hold your main workflow.
-➢ all other automation .xaml files included In the project. Please note that these files have To be linked To the Main.xaml through the Invoke Workflow File activity, because only the Main.xaml file Is executed When you run a job.
-➢ a .screenshots folder, If you are dealing With UI automation.
-➢ a project.json file that contains information about your automation project.
-RPA Financial Robot Training Course (21st Century Economic Management New Form Textbook · Accounting Series)(Chinese Edition) - Paperback
